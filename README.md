@@ -90,7 +90,7 @@
 &nbsp;  
 
 
-### 📙 Education
+### Education
 - 성남 하이미디어 KDT JAVA와 AI/RPA/빅데이터를 활용한 E-커머스개발자 양성 취업과정  / '24.05 - '24.11
 
 &nbsp;  
@@ -102,8 +102,8 @@
 
 ### 📺 See Also
 
-**Notion.** [https://dot-shift-674.notion.site/351e25d3871b4ec4a4d47e58cb54867f](https://dot-shift-674.notion.site/351e25d3871b4ec4a4d47e58cb54867f)
+**Notion.** [*](*)
 
-**Github.**  [https://github.com/AtomicLiquors](https://github.com/AtomicLiquors)
+**Github.**  [https://github.com/JYH93](https://github.com/JYH93)
 
 
