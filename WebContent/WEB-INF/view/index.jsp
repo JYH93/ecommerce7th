@@ -13,6 +13,7 @@
 	position: relative;
 	background-size: cover;
 	background-position: center;
+	
 
 	}
 	
