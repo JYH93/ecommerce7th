@@ -102,7 +102,7 @@
 
 ### See Also
 
-**Notion.** [*](*)
+**Notion.** [https://lean-utensil-c0b.notion.site/Jin-Yu-hyeok-14236c3541d980ddb087e46dbb8291bb?pvs=4](https://lean-utensil-c0b.notion.site/Jin-Yu-hyeok-14236c3541d980ddb087e46dbb8291bb?pvs=4)
 
 **Github.**  [https://github.com/JYH93](https://github.com/JYH93)
 
